@@ -47,3 +47,14 @@ Title | Pub. | Author
 2D Shape Context:[ Shape Context: A new descriptor for shape matching and object recognition](https://en.wikipedia.org/wiki/Shape_context#Step_6:_Computing_the_shape_distance) | NeurIPS 2000 | Serge Belongie et al.
 3D Shape Context:[Recognizing Objects in Range Data Using Regional Point Descriptors](https://link.springer.com/chapter/10.1007/978-3-540-24672-5_18) | ECCV 2004|Andrea et al.
 ROI-cloud: [A Key Region Extraction Method for LiDAR Odometry and Localization](https://ieeexplore.ieee.org/abstract/document/9197059) | ICRA 2020 | Zhou et al.
+PointSIFT: [A sift-like network module for 3D point cloud semantic segmentation](https://arxiv.org/abs/1807.00652) | CVPR 2018 | Jiang et al.
+
+## DataSet
+DataSet | Size | Categories / Remarks |Sensing Modalities
+--------- | ------------- | -------------
+[ScanNet](http://www.scan-net.org/) | | |
+[SUN RGB-D](http://rgbd.cs.princeton.edu)
+SUN3D
+[KITTI](http://www.cvlibs.net/datasets/kitti/)|  7481 frames (training) 80.256 objects| Car, Van, Truck, Pedestrian,
+Person (sitting), Cyclist, Tram,
+Misc| Visual (Stereo) camera, 3D LiDAR, GNSS, and inertial sensors
