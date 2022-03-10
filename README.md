@@ -31,10 +31,18 @@ MultiView based | Hdnet: [Exploiting hd maps for 3d object detection](http://pro
 MultiView based |LaserNet: [An Efficient Probabilistic 3D Object Detector for Autonomous Driving](https://openaccess.thecvf.com/content_CVPR_2019/html/Meyer_LaserNet_An_Efficient_Probabilistic_3D_Object_Detector_for_Autonomous_Driving_CVPR_2019_paper.html)|Range View,RV| CVPR 2019| Meyer et al.
 Voxel based |Voxelnet: [End-to-end learning for point cloud based 3d object detection](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_VoxelNet_End-to-End_Learning_CVPR_2018_paper.html)|voxel| CVPR 2018| Zhou et al.
 Voxel based |Second: [Sparsely embedded convolutional detection](https://www.mdpi.com/1424-8220/18/10/3337)|voxel| Sensors 2018| Yan et al.
-
 Voxel based |PointPillars: [Fast Encoders for Object Detection From Point Clouds](https://openaccess.thecvf.com/content_CVPR_2019/html/Lang_PointPillars_Fast_Encoders_for_Object_Detection_From_Point_Clouds_CVPR_2019_paper.html)|voxel| CVPR 2019| Lang et al.
 Voxel based |HVNet: [Hybrid Voxel Network for LiDAR Based 3D Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/html/Ye_HVNet_Hybrid_Voxel_Network_for_LiDAR_Based_3D_Object_Detection_CVPR_2020_paper.html)|voxel| CVPR 2020| Ye et al.
 Voxel based |HVPR: [Hybrid Voxel-Point Representation for Single-Stage 3D Object Detection](https://openaccess.thecvf.com/content/CVPR2021/html/Noh_HVPR_Hybrid_Voxel-Point_Representation_for_Single-Stage_3D_Object_Detection_CVPR_2021_paper.html)|voxel| CVPR 2021| Noh et al.
+Voxel based | SA-SSD : [Structure aware single-stage 3d object detection from point cloud](https://openaccess.thecvf.com/content_CVPR_2020/html/He_Structure_Aware_Single-Stage_3D_Object_Detection_From_Point_Cloud_CVPR_2020_paper.html)|voxel|CVPR 2020 | He et al.
+Point based | PointRCNN: [3D Object Proposal Generation and Detection From Point Cloud](https://openaccess.thecvf.com/content_CVPR_2019/html/Shi_PointRCNN_3D_Object_Proposal_Generation_and_Detection_From_Point_Cloud_CVPR_2019_paper.html)| point| CVPR 2019| Shi et al.
+Point based | VoteNet :[A Deep Learning Label Fusion Method for Multi-atlas Segmentation](https://link.springer.com/chapter/10.1007/978-3-030-32248-9_23) | point| ICCV 2019| Ding et al.
+Point based | Part A^2 :[From Points to Parts: 3D Object Detection From Point Cloud With Part-Aware and Part-Aggregation Network](https://ieeexplore.ieee.org/abstract/document/9018080)| point| TPAMI2020| Shi et al.
+Point based | PV RCNN : [Point-Voxel Feature Set Abstraction for 3D Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/html/Shi_PV-RCNN_Point-Voxel_Feature_Set_Abstraction_for_3D_Object_Detection_CVPR_2020_paper.html)| point| CVPR 2020| Shi et al.
+Point based | 3DSSD :[Point-based 3D Single Stage Object Detector](https://ieeexplore.ieee.org/document/9156597)| point| CVPR 2020| Yang et al.
+Point based | LiDAR RCNN :[An Efficient and Universal 3D Object Detector](https://openaccess.thecvf.com/content/CVPR2021/html/Li_LiDAR_R-CNN_An_Efficient_and_Universal_3D_Object_Detector_CVPR_2021_paper.html)| point| CVPR 2021| Li et al.
+Point based | 3DIoUMatch :[Leveraging IoU Prediction for Semi-Supervised 3D Object Detection](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_3DIoUMatch_Leveraging_IoU_Prediction_for_Semi-Supervised_3D_Object_Detection_CVPR_2021_paper.html)| point| CVPR 2021| Wang et al.
+Point based | ST3D :[Self-Training for Unsupervised Domain Adaptation on 3D Object Detection](https://openaccess.thecvf.com/content/CVPR2021/html/Yang_ST3D_Self-Training_for_Unsupervised_Domain_Adaptation_on_3D_Object_Detection_CVPR_2021_paper.html)| point| CVPR 2021| Yang et al.
 ## multimodel object detection
 
 
