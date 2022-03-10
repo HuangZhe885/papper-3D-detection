@@ -28,7 +28,7 @@ PointAugmenting: [Cross-Modal Augmentation for 3D Object Detection](https://open
 ## Selfsupervised Learning
 Title | Pub. | Author
 --------- | ------------- | -------------
-Data2vec: [A General Framework for Self-supervised Learning in Speech, Vision and Language] (https://ai.facebook.com/research/data2vec-a-general-framework-for-self-supervised-learning-in-speech-vision-and-language)|  2022| MetaAI
+Data2vec: [A General Framework for Self-supervised Learning in Speech, Vision and Language](https://ai.facebook.com/research/data2vec-a-general-framework-for-self-supervised-learning-in-speech-vision-and-language)|  2022| MetaAI
 
 ## Point Cloud Local Feature Description
 Title | Pub. | Author
