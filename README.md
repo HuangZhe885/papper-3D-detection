@@ -116,5 +116,8 @@ DataSet | Size | Categories / Remarks |Sensing Modalities
 [Lyft-L5 AV dataset](https://level5.lyft.com/dataset/)| 55k frames| Semantic HD map included|3D LiDAR (5), Visual cameras (6)
 [A2D2](https://www.audi-electronics-venture.de/aev/web/en/driving-dataset.html)|40k frames (semantics), 12k frames (3D objects), 390k frames unlabeled|Car,Bicycle, Pedestrian, Truck,Small vehicles, Traffic signal,Utility vehicle, Sidebars, Speed bumper, Curbstone, Solid line,Irrelevant signs, Road blocks, Tractor, Non-drivable street, Zebra crossing, Obstacles / trash, Poles,RD restricted area, Animals, Grid structure, Signal corpus, Drivable cobbleston, Electronic traffic,Slow drive area, Nature object,Parking area, Sidewalk, Ego car,Painted driv. instr., Traffic guide obj., Dashed line, RD normal street, Sky, Buildings, Blurred area, Rain dirt| Visual cameras (6); 3D LiDAR (5); Bus data
 [ApolloScape](http://apolloscape.auto/scene.html)|143,906 image frames, 89,430 objects|Rover, Sky, Car, Motobicycle,Bicycle, Person, Rider, Truck,Bus, Tricycle, Road, Sidewalk,Traffic Cone, Road Pile, Fence,Traffic Light, Pole, Traffic Sign,Wall, Dustbin, Billboard,Building, Bridge, Tunnel,Overpass, Vegetation|Visual (Stereo) camera, 3D LiDAR, GNSS, and inertial sensors
-
+[A**3D** Dataset](https://github.com/I2RDL2/ASTAR-3D)| 39k frames, 230k objects|Car, Van, Bus, Truck, Pedestrians,Cyclists, and Motorcyclists;Afternoon and night, wet and dry|Visual cameras (2); 3D LiDAR
+[DBNet Dataset](http://www.dbehavior.net/)|Over 10k frames|In total seven datasets with different test scenarios, such as seaside roads, school areas,mountain roads.|3D LiDAR, Dashboard visual camera, GNSS
+[KAIST multispectral dataset](http://multispectral.kaist.ac.kr)|7,512 frames, 308,913 objects|Person, Cyclist, Car during day and night, fine time slots (sunrise,afternoon,...)
+[PandaSet](https://scale.com/open-datasets/pandaset)
 **TO BE CONTINUE!**
