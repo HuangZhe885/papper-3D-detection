@@ -23,7 +23,14 @@ Monocular based |  MonoCon : [Learning Auxiliary Monocular Contexts Helps Monocu
 Monocular based |Mono3D-PLiDAR : [Monocular 3d object detection with pseudo-lidar point cloud](https://openaccess.thecvf.com/content_ICCVW_2019/html/CVRSUAD/Weng_Monocular_3D_Object_Detection_with_Pseudo-LiDAR_Point_Cloud_ICCVW_2019_paper.html) |Monocular Image | ICCV 2019 | Weng et al.
 Monocular based | M3DSSD: [onocular 3D Single Stage Object Detector](https://openaccess.thecvf.com/content/CVPR2021/papers/Luo_M3DSSD_Monocular_3D_Single_Stage_Object_Detector_CVPR_2021_paper.pdf) |Monocular Image | CVPR 2021 | Luo et al.
 Monocular based | MonoRUn: [Monocular 3D Object Detection by Reconstruction and Uncertainty Propagation](https://openaccess.thecvf.com/content/CVPR2021/html/Chen_MonoRUn_Monocular_3D_Object_Detection_by_Reconstruction_and_Uncertainty_Propagation_CVPR_2021_paper.html)|Monocular Image | CVPR 2021 | chen et al.
-Monocular based | 3DOP: [3D Object Proposals using Stereo Imagery for Accurate Object Class Detection](https://ieeexplore.ieee.org/abstract/document/7932113) |Monocular Image | NIPS 2015 | Chen et al.
+Stereo based | 3DOP: [3D Object Proposals using Stereo Imagery for Accurate Object Class Detection](https://ieeexplore.ieee.org/abstract/document/7932113) |Monocular Image | NIPS 2015 | Chen et al.
+Stereo based | Liga-stereo: [Learning lidar geometry aware representations for stereo-based 3d detector](https://openaccess.thecvf.com/content/ICCV2021/html/Guo_LIGA-Stereo_Learning_LiDAR_Geometry_Aware_Representations_for_Stereo-Based_3D_Detector_ICCV_2021_paper.html)|Stereo Image| CVPR 2021| Guo et al.
+Stereo based |CG-Stereo : [Confidence guided stereo 3D object detection with split depth estimation](https://ieeexplore.ieee.org/abstract/document/9341188)| Stereo Image|| CVPR 2021| Guo et al.
+Stereo based | Stereo R-CNN :[Stereo R-CNN Based 3D Object Detection for Autonomous Driving](https://openaccess.thecvf.com/content_CVPR_2019/html/Li_Stereo_R-CNN_Based_3D_Object_Detection_for_Autonomous_Driving_CVPR_2019_paper.html)|Stereo Image| CVPR 2019| Li et al.
+MultiView based | VeloFCN : [Vehicle detection from 3d lidar using fully convolutional network](https://arxiv.org/abs/1608.07916)|Front View,FV| CVPR 2016| Li et al.
+MultiView based | BirdNet : [Birdnet: a 3d object detection framework from lidar information](https://ieeexplore.ieee.org/abstract/document/8569311)|Bird’s Eye of View,BEV | CVPR 2018| Jorge et al.
+MultiView based | Pixor: [Real-time 3d object detection from point clouds](https://openaccess.thecvf.com/content_cvpr_2018/html/Yang_PIXOR_Real-Time_3D_CVPR_2018_paper.html)|BEV| CVPR 2018| Yang et al.
+MultiView based | Hdnet: [Exploiting hd maps for 3d object detection](http://proceedings.mlr.press/v87/yang18b)|BEV| PMLR 2018| Yang et al.
 
 
 
