@@ -24,6 +24,12 @@ PI-RCNN: [An efficient multi-sensor 3D object detector with point-based attentiv
 MoCa : [Multi-Modality Cut and Paste for 3D Object Detection](https://ui.adsabs.harvard.edu/abs/2020arXiv201212741Z/abstract) | arXiv 2020 | Zhang et al.
 PointAugmenting: [Cross-Modal Augmentation for 3D Object Detection](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_PointAugmenting_Cross-Modal_Augmentation_for_3D_Object_Detection_CVPR_2021_paper.html?utm_campaign=Akira%27s%20Machine%20Learning%20News%20%28ja%29&utm_medium=email&utm_source=Revue%20newsletter) | CVPR 2021 | Wang et al.
 
+
+## Selfsupervised Learning
+Title | Pub. | Author
+--------- | ------------- | -------------
+Data2vec: [A General Framework for Self-supervised Learning in Speech, Vision and Language] (https://ai.facebook.com/research/data2vec-a-general-framework-for-self-supervised-learning-in-speech-vision-and-language)|  2022| MetaAI
+
 ## Point Cloud Local Feature Description
 Title | Pub. | Author
 --------- | ------------- | -------------
