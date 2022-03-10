@@ -111,6 +111,10 @@ DataSet | Size | Categories / Remarks |Sensing Modalities
 [KITTI](http://www.cvlibs.net/datasets/kitti/)|  7481 frames (training) 80.256 objects| Car, Van, Truck, Pedestrian, Person (sitting), Cyclist, Tram,Misc| Visual (Stereo) camera, 3D LiDAR, GNSS, and inertial sensors
 [nuScense](https://www.nuscenes.org/download) |1000 scenes, 1.4M frames (camera, Radar), 390k frames (3D LiDAR)| 25 Object classes, such as Car /Van / SUV, different Trucks,Buses, Persons, Animal, Traffic Cone, Temporary Traffic Barrier, Debris, etc.|Visual cameras (6), 3D LiDAR, and Radars (5)|
 [BLVD](https://github.com/VCCIV/BLVD/) | 120k frames, 249,129 objects |Vehicle, Pedestrian, Rider during day and night |  Visual (Stereo) camera, 3D LiDAR
-
+[Waymo open dataset](https://waymo.com/open)|  200k frames, 12M objects (3D LiDAR), 1.2M objects (2D camera)| Vehicles, Pedestrians, Cyclists,Signs|3D LiDAR (5), Visual cameras (5)
+[H3D](https://usa.honda-ri.com/hdd/introduction/h3d)|27,721 frames, 1,071,302 objects|Car, Pedestrian, Cyclist, Truck, Misc, Animals, Motorcyclist, Bus| Visual cameras (3), 3D LiDAR
+[Lyft-L5 AV dataset](https://level5.lyft.com/dataset/)| 55k frames| Semantic HD map included|3D LiDAR (5), Visual cameras (6)
+[A2D2](https://www.audi-electronics-venture.de/aev/web/en/driving-dataset.html)|40k frames (semantics), 12k frames (3D objects), 390k frames unlabeled|Car,Bicycle, Pedestrian, Truck,Small vehicles, Traffic signal,Utility vehicle, Sidebars, Speed bumper, Curbstone, Solid line,Irrelevant signs, Road blocks, Tractor, Non-drivable street, Zebra crossing, Obstacles / trash, Poles,RD restricted area, Animals, Grid structure, Signal corpus, Drivable cobbleston, Electronic traffic,Slow drive area, Nature object,Parking area, Sidewalk, Ego car,Painted driv. instr., Traffic guide obj., Dashed line, RD normal street, Sky, Buildings, Blurred area, Rain dirt| Visual cameras (6); 3D LiDAR (5); Bus data
+[ApolloScape](http://apolloscape.auto/scene.html)|143,906 image frames, 89,430 objects|Rover, Sky, Car, Motobicycle,Bicycle, Person, Rider, Truck,Bus, Tricycle, Road, Sidewalk,Traffic Cone, Road Pile, Fence,Traffic Light, Pole, Traffic Sign,Wall, Dustbin, Billboard,Building, Bridge, Tunnel,Overpass, Vegetation|Visual (Stereo) camera, 3D LiDAR, GNSS, and inertial sensors
 
 **TO BE CONTINUE!**
