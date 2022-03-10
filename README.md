@@ -31,9 +31,13 @@ MultiView based | VeloFCN : [Vehicle detection from 3d lidar using fully convolu
 MultiView based | BirdNet : [Birdnet: a 3d object detection framework from lidar information](https://ieeexplore.ieee.org/abstract/document/8569311)|Bird’s Eye of View,BEV | CVPR 2018| Jorge et al.
 MultiView based | Pixor: [Real-time 3d object detection from point clouds](https://openaccess.thecvf.com/content_cvpr_2018/html/Yang_PIXOR_Real-Time_3D_CVPR_2018_paper.html)|BEV| CVPR 2018| Yang et al.
 MultiView based | Hdnet: [Exploiting hd maps for 3d object detection](http://proceedings.mlr.press/v87/yang18b)|BEV| PMLR 2018| Yang et al.
+MultiView based |LaserNet: [An Efficient Probabilistic 3D Object Detector for Autonomous Driving](https://openaccess.thecvf.com/content_CVPR_2019/html/Meyer_LaserNet_An_Efficient_Probabilistic_3D_Object_Detector_for_Autonomous_Driving_CVPR_2019_paper.html)|Range View,RV| CVPR 2019| Meyer et al.
+Voxel based |Voxelnet: [End-to-end learning for point cloud based 3d object detection](https://openaccess.thecvf.com/content_cvpr_2018/html/Zhou_VoxelNet_End-to-End_Learning_CVPR_2018_paper.html)|voxel| CVPR 2018| Zhou et al.
+Voxel based |Second: [Sparsely embedded convolutional detection](https://www.mdpi.com/1424-8220/18/10/3337)|voxel| Sensors 2018| Yan et al.
 
-
-
+Voxel based |PointPillars: [Fast Encoders for Object Detection From Point Clouds](https://openaccess.thecvf.com/content_CVPR_2019/html/Lang_PointPillars_Fast_Encoders_for_Object_Detection_From_Point_Clouds_CVPR_2019_paper.html)|voxel| CVPR 2019| Lang et al.
+Voxel based |HVNet: [Hybrid Voxel Network for LiDAR Based 3D Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/html/Ye_HVNet_Hybrid_Voxel_Network_for_LiDAR_Based_3D_Object_Detection_CVPR_2020_paper.html)|voxel| CVPR 2020| Ye et al.
+Voxel based |HVPR: [Hybrid Voxel-Point Representation for Single-Stage 3D Object Detection](https://openaccess.thecvf.com/content/CVPR2021/html/Noh_HVPR_Hybrid_Voxel-Point_Representation_for_Single-Stage_3D_Object_Detection_CVPR_2021_paper.html)|voxel| CVPR 2021| Noh et al.
 ## multimodel object detection
 ![流程图 drawio](https://user-images.githubusercontent.com/44192081/157562681-b7d4d5cb-ac9f-490f-b3a6-45b03c459505.png)
 
