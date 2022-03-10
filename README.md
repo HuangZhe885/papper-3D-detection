@@ -1,9 +1,27 @@
-# papper-3D-detection
-![流程图 drawio](https://user-images.githubusercontent.com/44192081/157437988-2a034f4e-5902-4634-ae39-44d8e31fab05.png)
+# OverView of 3D object detection method
+
 In order to facilitate the papers that I have already seen, I will organize the paper related to 3D object detection.This will include an algorithm based on deep learning and multimode fusion algorithms.
+
+![流程图 drawio](https://user-images.githubusercontent.com/44192081/157437988-2a034f4e-5902-4634-ae39-44d8e31fab05.png)
+
 
 
 # papper list 
+## object detection without fusion
+
+
+ 
+<center>The time axis of method of Single mode depth learning detection </center>
+<div style="align: center">
+<img src="https://user-images.githubusercontent.com/44192081/157589861-dc6e6a48-195a-4002-b0b5-f8493c6e7c7e.png"/>
+</div>
+ 
+Method | Title | Input  | Pub. | Author
+--------- | ------------- | ------------- | ------------- | -------------
+Monocular based | Deep3DBox: [3D Bounding Box Estimation Using Deep Learning and Geometry ](https://openaccess.thecvf.com/content_cvpr_2017/html/Mousavian_3D_Bounding_Box_CVPR_2017_paper.html) |  Monocular Image | CVPR 2017 |Chen et al.
+Monocular based |  MonoCon : [Learning Auxiliary Monocular Contexts Helps Monocular 3D Object Detection](https://xianpeng-liu.com/publication/learning-auxiliary-monocular-contexts-helps-monocular-3d-object-detection/learning-auxiliary-monocular-contexts-helps-monocular-3d-object-detection.pdf) | Monocular Image | |arXiv 2021 
+
+
 
 ## multimodel object detection
 ![流程图 drawio](https://user-images.githubusercontent.com/44192081/157562681-b7d4d5cb-ac9f-490f-b3a6-45b03c459505.png)
@@ -15,7 +33,7 @@ AVOD : [Joint 3D Proposal Generation and Object Detection from View Aggregation]
 SCANet:[ Spatial-channel attention network for 3D object detection](https://ieeexplore.ieee.org/abstract/document/8682746)| ICASSP 2019| Lu et al.
 MVX-net:[ Multimodal voxelnet for 3d object detection](https://ieeexplore.ieee.org/abstract/document/8794195) | ICRA 2019 | Sindagi et al.
 MMF : [Multi-task multi-sensor fusion for 3d object detection](https://openaccess.thecvf.com/content_CVPR_2019/html/Liang_Multi-Task_Multi-Sensor_Fusion_for_3D_Object_Detection_CVPR_2019_paper.html) | CVPR 2019 | liang et al.
-[CLOCs: Camera-LiDAR Object Candidates Fusion for 3D Object Detection](https://ieeexplore.ieee.org/abstract/document/9341791/) | IROS 2020| Peng et al.
+CLOCs: [Camera-LiDAR Object Candidates Fusion for 3D Object Detection](https://ieeexplore.ieee.org/abstract/document/9341791/) | IROS 2020| Peng et al.
 ContFusion : [Deep continuous fusion for multi-sensor 3d object detection](https://openaccess.thecvf.com/content_ECCV_2018/html/Ming_Liang_Deep_Continuous_Fusion_ECCV_2018_paper.html)| ECCV 2018 |Liang et al. 
 Pointfusion: [Deep sensor fusion for 3d bounding box estimation](https://openaccess.thecvf.com/content_cvpr_2018/html/Xu_PointFusion_Deep_Sensor_CVPR_2018_paper.html) | CVPR 2018 | Xu et al.
 Pointpainting: [Sequential fusion for 3d object detection](https://openaccess.thecvf.com/content_CVPR_2020/html/Vora_PointPainting_Sequential_Fusion_for_3D_Object_Detection_CVPR_2020_paper.html) | CVPR 2020 |Lang et al.
@@ -51,10 +69,9 @@ PointSIFT: [A sift-like network module for 3D point cloud semantic segmentation]
 
 ## DataSet
 DataSet | Size | Categories / Remarks |Sensing Modalities
---------- | ------------- | -------------
+--------- | ------------- | ------------- | -------------
 [ScanNet](http://www.scan-net.org/) | | |
 [SUN RGB-D](http://rgbd.cs.princeton.edu)
-SUN3D
-[KITTI](http://www.cvlibs.net/datasets/kitti/)|  7481 frames (training) 80.256 objects| Car, Van, Truck, Pedestrian,
-Person (sitting), Cyclist, Tram,
-Misc| Visual (Stereo) camera, 3D LiDAR, GNSS, and inertial sensors
+[SUN3D](http://sun3d.cs.princeton.edu)
+[KITTI](http://www.cvlibs.net/datasets/kitti/)|  7481 frames (training) 80.256 objects| Car, Van, Truck, Pedestrian,Person (sitting), Cyclist, Tram,Misc| Visual (Stereo) camera, 3D LiDAR, GNSS, and inertial sensors
+[nuScense](https://www.nuscenes.org/download) |1000 scenes, 1.4M frames (camera, Radar), 390k frames (3D LiDAR)| 25 Object classes, such as Car /Van / SUV, different Trucks,Buses, Persons, Animal, Traffic Cone, Temporary Traffic Barrier, Debris, etc.|Visual cameras (6), 3D LiDAR, and Radars (5)|
