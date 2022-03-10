@@ -31,8 +31,13 @@ Title | Pub. | Author
 --------- | ------------- | -------------
 Data2vec: [A General Framework for Self-supervised Learning in Speech, Vision and Language](https://ai.facebook.com/research/data2vec-a-general-framework-for-self-supervised-learning-in-speech-vision-and-language)|  2022| MetaAI
 
+## Unsupervised Learning
+[Unsupervised Learning of Depth from Monocular Videos Using 3D-2D Corresponding Constraints ](https://www.mdpi.com/2072-4292/13/9/1764) |Remote Sensing 2021| Jin et al.
+
+
 ## Point Cloud Local Feature Description
 Title | Pub. | Author
 --------- | ------------- | -------------
 2D Shape Context:[ Shape Context: A new descriptor for shape matching and object recognition](https://en.wikipedia.org/wiki/Shape_context#Step_6:_Computing_the_shape_distance) | NeurIPS 2000 | Serge Belongie et al.
 3D Shape Context:[Recognizing Objects in Range Data Using Regional Point Descriptors](https://link.springer.com/chapter/10.1007/978-3-540-24672-5_18) | ECCV 2004|Andrea et al.
+ROI-cloud: [A Key Region Extraction Method for LiDAR Odometry and Localization](https://ieeexplore.ieee.org/abstract/document/9197059) | ICRA 2020 | Zhou et al.
