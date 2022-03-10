@@ -23,7 +23,8 @@ Epnet: [Enhancing point features with image semantics for 3d object detection](h
 PI-RCNN: [An efficient multi-sensor 3D object detector with point-based attentive cont-conv fusion module](https://ojs.aaai.org/index.php/AAAI/article/view/6933)| AAAI 2020 | Xiang et al.
 MoCa : [Multi-Modality Cut and Paste for 3D Object Detection](https://ui.adsabs.harvard.edu/abs/2020arXiv201212741Z/abstract) | arXiv 2020 | Zhang et al.
 PointAugmenting: [Cross-Modal Augmentation for 3D Object Detection](https://openaccess.thecvf.com/content/CVPR2021/html/Wang_PointAugmenting_Cross-Modal_Augmentation_for_3D_Object_Detection_CVPR_2021_paper.html?utm_campaign=Akira%27s%20Machine%20Learning%20News%20%28ja%29&utm_medium=email&utm_source=Revue%20newsletter) | CVPR 2021 | Wang et al.
-
+Imvotenet: [Boosting 3d object detection in point clouds with image votes](https://openaccess.thecvf.com/content_CVPR_2020/html/Qi_ImVoteNet_Boosting_3D_Object_Detection_in_Point_Clouds_With_Image_CVPR_2020_paper.html) | CVPR 2020| Charles Qi et al.
+Pseudo-LiDAR From Visual Depth Estimation: [Bridging the Gap in 3D Object Detection for Autonomous Driving](https://openaccess.thecvf.com/content_CVPR_2019/html/Wang_Pseudo-LiDAR_From_Visual_Depth_Estimation_Bridging_the_Gap_in_3D_CVPR_2019_paper.html) | CVPR 2019 |Wang et al.
 
 ## Selfsupervised Learning
 Title | Pub. | Author
