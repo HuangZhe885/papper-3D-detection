@@ -19,8 +19,9 @@ In order to facilitate the papers that I have already seen, I will organize the 
 Method | Title | Input  | Pub. | Author
 --------- | ------------- | ------------- | ------------- | -------------
 Monocular based | Deep3DBox: [3D Bounding Box Estimation Using Deep Learning and Geometry ](https://openaccess.thecvf.com/content_cvpr_2017/html/Mousavian_3D_Bounding_Box_CVPR_2017_paper.html) |  Monocular Image | CVPR 2017 |Chen et al.
-Monocular based |  MonoCon : [Learning Auxiliary Monocular Contexts Helps Monocular 3D Object Detection](https://xianpeng-liu.com/publication/learning-auxiliary-monocular-contexts-helps-monocular-3d-object-detection/learning-auxiliary-monocular-contexts-helps-monocular-3d-object-detection.pdf) | Monocular Image | |arXiv 2021 
-
+Monocular based |  MonoCon : [Learning Auxiliary Monocular Contexts Helps Monocular 3D Object Detection](https://xianpeng-liu.com/publication/learning-auxiliary-monocular-contexts-helps-monocular-3d-object-detection/learning-auxiliary-monocular-contexts-helps-monocular-3d-object-detection.pdf) | Monocular Image | arXiv 2021 |Liu et al.
+Monocular based |Mono3D-PLiDAR : [Monocular 3d object detection with pseudo-lidar point cloud](https://openaccess.thecvf.com/content_ICCVW_2019/html/CVRSUAD/Weng_Monocular_3D_Object_Detection_with_Pseudo-LiDAR_Point_Cloud_ICCVW_2019_paper.html) |Monocular Image | ICCV 2019 | Weng et al.
+Monocular based | M3DSSD: [onocular 3D Single Stage Object Detector](https://openaccess.thecvf.com/content/CVPR2021/papers/Luo_M3DSSD_Monocular_3D_Single_Stage_Object_Detector_CVPR_2021_paper.pdf) |Monocular Image | CVPR 2021 | Luo et al.
 
 
 ## multimodel object detection
