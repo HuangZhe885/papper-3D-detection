@@ -2,20 +2,17 @@
 
 In order to facilitate the papers that I have already seen, I will organize the paper related to 3D object detection.This will include an algorithm based on deep learning and multimode fusion algorithms.
 
-![流程图 drawio](https://user-images.githubusercontent.com/44192081/157437988-2a034f4e-5902-4634-ae39-44d8e31fab05.png)
+ 
 
+![流程图 drawio](https://user-images.githubusercontent.com/44192081/157608778-48803592-9386-4f7e-9948-3bd4dca1927a.png)
 
 
 # papper list 
 ## object detection without fusion
 
 
- 
-<center>The time axis of method of Single mode depth learning detection </center>
-<div style="align: center">
-<img src="https://user-images.githubusercontent.com/44192081/157589861-dc6e6a48-195a-4002-b0b5-f8493c6e7c7e.png"/>
-</div>
- 
+ ![非融合算法时间序列 drawio](https://user-images.githubusercontent.com/44192081/157609450-5add851e-92e6-482a-b93f-752f34c2206c.png)
+
 Method | Title | Input  | Pub. | Author
 --------- | ------------- | ------------- | ------------- | -------------
 Monocular based | Deep3DBox: [3D Bounding Box Estimation Using Deep Learning and Geometry ](https://openaccess.thecvf.com/content_cvpr_2017/html/Mousavian_3D_Bounding_Box_CVPR_2017_paper.html) |  Monocular Image | CVPR 2017 |Chen et al.
@@ -39,7 +36,11 @@ Voxel based |PointPillars: [Fast Encoders for Object Detection From Point Clouds
 Voxel based |HVNet: [Hybrid Voxel Network for LiDAR Based 3D Object Detection](https://openaccess.thecvf.com/content_CVPR_2020/html/Ye_HVNet_Hybrid_Voxel_Network_for_LiDAR_Based_3D_Object_Detection_CVPR_2020_paper.html)|voxel| CVPR 2020| Ye et al.
 Voxel based |HVPR: [Hybrid Voxel-Point Representation for Single-Stage 3D Object Detection](https://openaccess.thecvf.com/content/CVPR2021/html/Noh_HVPR_Hybrid_Voxel-Point_Representation_for_Single-Stage_3D_Object_Detection_CVPR_2021_paper.html)|voxel| CVPR 2021| Noh et al.
 ## multimodel object detection
-![流程图 drawio](https://user-images.githubusercontent.com/44192081/157562681-b7d4d5cb-ac9f-490f-b3a6-45b03c459505.png)
+
+
+![算法时间序列 drawio](https://user-images.githubusercontent.com/44192081/157609652-da342339-bb40-4314-bab4-52f3deb2aee4.png)
+
+
 
 Title | Pub. | Author
 --------- | ------------- | -------------
