@@ -28,7 +28,7 @@ object detection |[A Review and Comparative Study on Probabilistic Object Detect
 object detection |[An Overview Of 3D Object Detection](https://arxiv.org/abs/2010.15614)|Yilin Wang, Jiayi Ye
 object detection |[3D Object Detection for Autonomous Driving: A Survey](https://arxiv.org/abs/2106.1082)|Rui Qian, Xin Lai
 MultiModel |[Multi-Modal 3D Object Detection in Autonomous Driving: a Survey](https://arxiv.org/pdf/2106.12735.pdf)|Yingjie Wang,Qiuyu Mao
-MultiModel |[Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets,Methods, and Challenges]|(https://arxiv.org/pdf/1902.07830.pdf?ref=https://githubhelp.com)|Di Feng,Christian Haase-Schutz
+MultiModel |[Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets,Methods, and Challenges](https://arxiv.org/pdf/1902.07830.pdf?ref=https://githubhelp.com)|Di Feng,Christian Haase-Schutz
 MultiModel |[Deep Learning for Image and Point Cloud Fusion in Autonomous Driving: A Review](https://arxiv.org/pdf/2004.05224.pdf)|Yaodong Cui
 
 
