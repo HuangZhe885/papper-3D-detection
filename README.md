@@ -11,12 +11,27 @@ In order to facilitate the papers that I have already seen, I will organize the 
 
 # papper list 
  
+   * [Survey](#survey) 
    * [object detection without fusion](#object-detection-without-fusion)
    * [multimodel object detection](#multimodel-object-detection)
    * [Selfsupervised Learning](#selfsupervised-learning)
    * [Unsupervised Learning](#unsupervised-learning)
    * [Point Cloud Local Feature Description](#point-cloud-local-feature-description)
    * [DataSet](#dataset)
+
+
+## survey
+Method | Title | Author
+--------- | --------- | ------------- |
+object detection |[Foreground-Background Imbalance Problem in Deep Object Detectors: A Review](https://arxiv.org/abs/2006.09238)| Joya Chen, Tong Xu
+object detection |[A Review and Comparative Study on Probabilistic Object Detection in Autonomous Driving](https://arxiv.org/abs/2011.10671)|Di Feng,Ali Harakeh,Steven Waslander
+object detection |[An Overview Of 3D Object Detection](https://arxiv.org/abs/2010.15614)|Yilin Wang, Jiayi Ye
+object detection |[3D Object Detection for Autonomous Driving: A Survey](https://arxiv.org/abs/2106.1082)|Rui Qian, Xin Lai
+MultiModel |[Multi-Modal 3D Object Detection in Autonomous Driving: a Survey](https://arxiv.org/pdf/2106.12735.pdf)|Yingjie Wang,Qiuyu Mao
+MultiModel |[Deep Multi-modal Object Detection and Semantic Segmentation for Autonomous Driving: Datasets,Methods, and Challenges]|(https://arxiv.org/pdf/1902.07830.pdf?ref=https://githubhelp.com)|Di Feng,Christian Haase-Schutz
+MultiModel |[Deep Learning for Image and Point Cloud Fusion in Autonomous Driving: A Review](https://arxiv.org/pdf/2004.05224.pdf)|Yaodong Cui
+
+
 ## object detection without fusion
 
 
