@@ -16,7 +16,7 @@ In order to facilitate the papers that I have already seen, I will organize the 
    * [multimodel object detection](#multimodel-object-detection)
    * [Selfsupervised Learning](#selfsupervised-learning)
    * [Unsupervised Learning](#unsupervised-learning)
-   * [DownSampling in pointcloud](#downsampling in pointcloud)
+   * [DownSampling in pointcloud](#unsupervised-learning)
    * [Point Cloud Local Feature Description](#point-cloud-local-feature-description)
    * [DataSet](#dataset)
 
