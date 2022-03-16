@@ -16,6 +16,7 @@ In order to facilitate the papers that I have already seen, I will organize the 
    * [multimodel object detection](#multimodel-object-detection)
    * [Selfsupervised Learning](#selfsupervised-learning)
    * [Unsupervised Learning](#unsupervised-learning)
+   * [DownSampling in pointcloud](#downsampling in pointcloud)
    * [Point Cloud Local Feature Description](#point-cloud-local-feature-description)
    * [DataSet](#dataset)
 
@@ -110,8 +111,8 @@ Title | Pub. | Author
 
 ## downsampling in pointcloud
 
-Method | Pub. | Author
---------- | ------------- | -------------
+Method | Title  
+--------- | -------------  
 farthest point sampling（FPS）|PointNet++: [Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://proceedings.neurips.cc/paper/2017/hash/d8bf84be3800d12f74d8b05e9b89836f-Abstract.html)
 farthest point sampling（FPS）|ShellNet: [Efficient Point Cloud Convolutional Neural Networks Using Concentric Shells Statistics](https://openaccess.thecvf.com/content_ICCV_2019/html/Zhang_ShellNet_Efficient_Point_Cloud_Convolutional_Neural_Networks_Using_Concentric_Shells_ICCV_2019_paper.html)
 grid sampling（GS）|RandLA-Net: [Efficient Semantic Segmentation of Large-Scale Point Clouds](https://openaccess.thecvf.com/content_CVPR_2020/html/Hu_RandLA-Net_Efficient_Semantic_Segmentation_of_Large-Scale_Point_Clouds_CVPR_2020_paper.html)
