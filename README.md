@@ -121,6 +121,7 @@ random sampling（RS）|[Grid-GCN for Fast and Scalable Point Cloud Learning](ht
 Critical Points Layer (CPL)|[Adaptive Hierarchical Down-Sampling for Point Cloud Classification](https://arxiv.org/abs/1904.08506?context=cs.CV)
 Weighted Critical Points Layer (WCPL) |[Adaptive Hierarchical Down-Sampling for Point Cloud Classification](https://arxiv.org/abs/1904.08506?context=cs.CV)
 Adaptive Sampling |PointASNL: [Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling](https://arxiv.org/abs/2003.00492)
+Feature-FPS (F-FPS)|3DSSD: [Point-based 3D Single Stage Object Detector](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_3DSSD_Point-Based_3D_Single_Stage_Object_Detector_CVPR_2020_paper.html)
 
 
 
