@@ -122,6 +122,7 @@ Critical Points Layer (CPL)|[Adaptive Hierarchical Down-Sampling for Point Cloud
 Weighted Critical Points Layer (WCPL) |[Adaptive Hierarchical Down-Sampling for Point Cloud Classification](https://arxiv.org/abs/1904.08506?context=cs.CV)
 Adaptive Sampling |PointASNL: [Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling](https://arxiv.org/abs/2003.00492)
 Feature-FPS (F-FPS)|3DSSD: [Point-based 3D Single Stage Object Detector](https://openaccess.thecvf.com/content_CVPR_2020/html/Yang_3DSSD_Point-Based_3D_Single_Stage_Object_Detector_CVPR_2020_paper.html)
+Semantics-guided Farthest Point Sampling (S-FPS) |SASA：[SASA: Semantics-Augmented Set Abstraction for Point-based 3D Object Detection](https://arxiv.org/abs/2201.01976)
 
 
 
