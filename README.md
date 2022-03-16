@@ -108,6 +108,22 @@ Title | Pub. | Author
 --------- | ------------- | -------------
 [Unsupervised Learning of Depth from Monocular Videos Using 3D-2D Corresponding Constraints ](https://www.mdpi.com/2072-4292/13/9/1764) |Remote Sensing 2021| Jin et al.
 
+## downsampling in pointcloud
+
+Method | Pub. | Author
+--------- | ------------- | -------------
+farthest point sampling（FPS）|PointNet++: [Deep Hierarchical Feature Learning on Point Sets in a Metric Space](https://proceedings.neurips.cc/paper/2017/hash/d8bf84be3800d12f74d8b05e9b89836f-Abstract.html)
+farthest point sampling（FPS）|ShellNet: [Efficient Point Cloud Convolutional Neural Networks Using Concentric Shells Statistics](https://openaccess.thecvf.com/content_ICCV_2019/html/Zhang_ShellNet_Efficient_Point_Cloud_Convolutional_Neural_Networks_Using_Concentric_Shells_ICCV_2019_paper.html)
+grid sampling（GS）|RandLA-Net: [Efficient Semantic Segmentation of Large-Scale Point Clouds](https://openaccess.thecvf.com/content_CVPR_2020/html/Hu_RandLA-Net_Efficient_Semantic_Segmentation_of_Large-Scale_Point_Clouds_CVPR_2020_paper.html)
+grid sampling（GS）|KPConv: [Flexible and Deformable Convolution for Point Clouds](https://openaccess.thecvf.com/content_ICCV_2019/html/Thomas_KPConv_Flexible_and_Deformable_Convolution_for_Point_Clouds_ICCV_2019_paper.html)
+random sampling（RS）|[Grid-GCN for Fast and Scalable Point Cloud Learning](https://openaccess.thecvf.com/content_CVPR_2020/html/Xu_Grid-GCN_for_Fast_and_Scalable_Point_Cloud_Learning_CVPR_2020_paper.html)
+Critical Points Layer (CPL)|[Adaptive Hierarchical Down-Sampling for Point Cloud Classification](https://arxiv.org/abs/1904.08506?context=cs.CV)
+Weighted Critical Points Layer (WCPL) |[Adaptive Hierarchical Down-Sampling for Point Cloud Classification](https://arxiv.org/abs/1904.08506?context=cs.CV)
+Adaptive Sampling |PointASNL: [Robust Point Clouds Processing using Nonlocal Neural Networks with Adaptive Sampling](https://arxiv.org/abs/2003.00492)
+
+
+
+
 
 ## Point Cloud Local Feature Description
 Title | Pub. | Author
