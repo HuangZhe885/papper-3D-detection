@@ -109,7 +109,7 @@ CrossPoint: [Self-Supervised Cross-Modal Contrastive Learning for 3D Point Cloud
 Title | Pub. | Author
 --------- | ------------- | -------------
 [Unsupervised Learning of Depth from Monocular Videos Using 3D-2D Corresponding Constraints ](https://www.mdpi.com/2072-4292/13/9/1764) |Remote Sensing 2021| Jin et al.
-[ST3D: Self-training for Unsupervised Domain Adaptation on 3D Object Detection] (https://www.mdpi.com/2072-4292/13/9/1764) |CVPR 2021| Yang et al.
+[ST3D: Self-training for Unsupervised Domain Adaptation on 3D Object Detection](https://www.mdpi.com/2072-4292/13/9/1764) |CVPR 2021| Yang et al.
 
 ## downsampling in pointcloud
 
