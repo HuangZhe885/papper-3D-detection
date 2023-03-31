@@ -18,6 +18,7 @@ In order to facilitate the papers that I have already seen, I will organize the 
    * [Unsupervised Learning](#unsupervised-learning)
    * [DownSampling in pointcloud](#unsupervised-learning)
    * [Point Cloud Local Feature Description](#point-cloud-local-feature-description)
+   * [Cooperative Driving Automation](#Cooperative Driving Automation)
    * [DataSet](#dataset)
 
 
@@ -139,6 +140,15 @@ Title | Pub. | Author
 [3D Shape Descriptor for Objects Recognition](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8215285)|LARS and SBR 2017| Sales et al.
 ROI-cloud: [A Key Region Extraction Method for LiDAR Odometry and Localization](https://ieeexplore.ieee.org/abstract/document/9197059) | ICRA 2020 | Zhou et al.
 PointSIFT: [A sift-like network module for 3D point cloud semantic segmentation](https://arxiv.org/abs/1807.00652) | CVPR 2018 | Jiang et al.
+
+## Cooperative Driving Automation
+Title | Pub. | Author
+--------- | ------------- | -------------
+V2X-ViT :[V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer](https://arxiv.org/abs/2203.10638) | ECCV'22|Xu et al.
+Where2comm :[Communication-Efficient Collaborative Perception via Spatial Confidence Maps](https://arxiv.org/abs/2209.12836) | NeurIPS'22|Hu et al.
+CoBEVT :[Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers](https://arxiv.org/abs/2207.02202) | CoRL'22|Hu et al.
+
+
 
 ## DataSet
 DataSet | Size | Categories / Remarks |Sensing Modalities
