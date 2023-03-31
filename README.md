@@ -18,7 +18,7 @@ In order to facilitate the papers that I have already seen, I will organize the 
    * [Unsupervised Learning](#unsupervised-learning)
    * [DownSampling in pointcloud](#unsupervised-learning)
    * [Point Cloud Local Feature Description](#point-cloud-local-feature-description)
-   * [Cooperative Driving Automation](#Cooperative Driving Automation)
+   * [Cooperative Driving Automation](#point-cloud-local-feature-description)
    * [DataSet](#dataset)
 
 
@@ -147,7 +147,7 @@ Title | Pub. | Author
 V2X-ViT :[V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer](https://arxiv.org/abs/2203.10638) | ECCV'22|Xu et al.
 Where2comm :[Communication-Efficient Collaborative Perception via Spatial Confidence Maps](https://arxiv.org/abs/2209.12836) | NeurIPS'22|Hu et al.
 CoBEVT :[Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers](https://arxiv.org/abs/2207.02202) | CoRL'22|Hu et al.
-
+V2VNet :[Vehicle-to-Vehicle Communication for Joint Perception and Prediction]([https://arxiv.org/abs/2207.02202](https://arxiv.org/abs/2008.07519)) | ECCV'20|Wang et al.
 
 
 ## DataSet
