@@ -147,7 +147,8 @@ Title | Pub. | Author
 V2X-ViT :[V2X-ViT: Vehicle-to-Everything Cooperative Perception with Vision Transformer](https://arxiv.org/abs/2203.10638) | ECCV'22|Xu et al.
 Where2comm :[Communication-Efficient Collaborative Perception via Spatial Confidence Maps](https://arxiv.org/abs/2209.12836) | NeurIPS'22|Hu et al.
 CoBEVT :[Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers](https://arxiv.org/abs/2207.02202) | CoRL'22|Hu et al.
-V2VNet :[Vehicle-to-Vehicle Communication for Joint Perception and Prediction]([https://arxiv.org/abs/2207.02202](https://arxiv.org/abs/2008.07519)) | ECCV'20|Wang et al.
+V2VNet :[Vehicle-to-Vehicle Communication for Joint Perception and Prediction]([https://arxiv.org/abs/2207.02202](https://arxiv.org/abs/2008.07519) | ECCV'20|Wang et al.
+opv2v :[OPV2V: An Open Benchmark Dataset and Fusion Pipeline for Perception with Vehicle-to-Vehicle Communication]([https://arxiv.org/abs/2203.10638](https://ieeexplore.ieee.org/abstract/document/9812038)) | ECCV'22|Xu et al.
 
 
 ## DataSet
