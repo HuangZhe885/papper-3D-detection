@@ -150,6 +150,9 @@ CoBEVT :[Cooperative Bird's Eye View Semantic Segmentation with Sparse Transform
 V2VNet :[Vehicle-to-Vehicle Communication for Joint Perception and Prediction](https://arxiv.org/abs/2008.07519) | ECCV'20|Wang et al.
 OPV2V:[ An Open Benchmark Dataset and Fusion Pipeline for Perception with Vehicle-to-Vehicle Communication](https://ieeexplore.ieee.org/abstract/document/9812038) | ECCV'22|Xu et al.
 SyncNet :[Latency-Aware Collaborative Perception]([https://arxiv.org/abs/2008.07519](https://arxiv.org/pdf/2207.08560.pdf)) | ECCV'22|Lei et al.
+Double-M:[Uncertainty Quantification of Collaborative Detection for Self-Driving](https://coperception.github.io/double-m-quantification/) | ICAR'23|Su et al.
+
+
 ## DataSet
 DataSet | Size | Categories / Remarks |Sensing Modalities
 --------- | ------------- | ------------- | -------------
