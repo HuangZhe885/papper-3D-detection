@@ -1,4 +1,4 @@
-![image](https://github.com/HuangZhe885/papper-3D-detection/assets/44192081/3542727d-c7e2-44d9-8d7e-2fabfbc3004e)
+
 
 # OverView of 3D object detection method
 
