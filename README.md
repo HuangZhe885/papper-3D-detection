@@ -150,10 +150,11 @@ Where2comm :[Communication-Efficient Collaborative Perception via Spatial Confid
 CoBEVT :[Cooperative Bird's Eye View Semantic Segmentation with Sparse Transformers](https://arxiv.org/abs/2207.02202) | CoRL'22|Hu et al.
 V2VNet :[Vehicle-to-Vehicle Communication for Joint Perception and Prediction](https://arxiv.org/abs/2008.07519) | ECCV'20|Wang et al.
 OPV2V:[ An Open Benchmark Dataset and Fusion Pipeline for Perception with Vehicle-to-Vehicle Communication](https://ieeexplore.ieee.org/abstract/document/9812038) | ECCV'22|Xu et al.
-SyncNet :[Latency-Aware Collaborative Perception]([https://arxiv.org/abs/2008.07519](https://arxiv.org/pdf/2207.08560.pdf)) | ECCV'22|Lei et al.
+SyncNet:[Latency-Aware Collaborative Perception]([https://coperception.github.io/double-m-quantification/](https://arxiv.org/pdf/2207.08560.pdf)) | ECCV'22|Lei et al.
 Double-M:[Uncertainty Quantification of Collaborative Detection for Self-Driving](https://coperception.github.io/double-m-quantification/) | ICAR'23|Su et al.
 SCOPE: [Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception](https://ydk122024.github.io/SCOPE/) | ICCV'23|Yang et al.
-
+MPDA: [Bridging the Domain Gap for Multi-Agent Perception](https://ieeexplore.ieee.org/abstract/document/10160871) | ICRA'23|Xu et al.
+AdaFusion: [Adaptive Feature Fusion for Cooperative Perception using LiDAR Point Clouds](https://openaccess.thecvf.com/content/WACV2023/html/Qiao_Adaptive_Feature_Fusion_for_Cooperative_Perception_Using_LiDAR_Point_Clouds_WACV_2023_paper.html) | WACV'23|Qiao et al.
 
 ## DataSet
 DataSet | Size | Categories / Remarks |Sensing Modalities
