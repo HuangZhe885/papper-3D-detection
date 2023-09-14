@@ -174,7 +174,7 @@ DataSet | Size | Categories / Remarks |Sensing Modalities
 [KAIST multispectral dataset](http://multispectral.kaist.ac.kr)|7,512 frames, 308,913 objects|Person, Cyclist, Car during day and night, fine time slots (sunrise,afternoon,...)
 [PandaSet](https://scale.com/open-datasets/pandaset)
 
-## Collaborative DataSet
+## Collaborative
 DataSet | Size |
 --------- | ------------- |
 OPV2V | 
