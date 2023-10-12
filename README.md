@@ -155,9 +155,7 @@ Double-M:[Uncertainty Quantification of Collaborative Detection for Self-Driving
 SCOPE: [Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perception](https://ydk122024.github.io/SCOPE/) | ICCV'23|Yang et al.
 MPDA: [Bridging the Domain Gap for Multi-Agent Perception](https://ieeexplore.ieee.org/abstract/document/10160871) | ICRA'23|Xu et al.
 AdaFusion: [Adaptive Feature Fusion for Cooperative Perception using LiDAR Point Clouds](https://openaccess.thecvf.com/content/WACV2023/html/Qiao_Adaptive_Feature_Fusion_for_Cooperative_Perception_Using_LiDAR_Point_Clouds_WACV_2023_paper.html) | WACV'23|Qiao et al.
-CoBEVFlow: [Robust Asynchronous Collaborative 3D Detection via Bird’s Eye View Flow]([https://ieeexplore.ieee.org/abstract/document/10160871](https://arxiv.org/abs/2309.16940) | NeurIPS'23|Wei et al.
-
-
+CoBEVFlow :[Robust Asynchronous Collaborative 3D Detection via Bird’s Eye View Flow](https://arxiv.org/abs/2309.16940) | NeurIPS'23|Wei et al.
 
 ## DataSet
 DataSet | Size | Categories / Remarks |Sensing Modalities
