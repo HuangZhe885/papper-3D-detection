@@ -157,6 +157,10 @@ SCOPE: [Spatio-Temporal Domain Awareness for Multi-Agent Collaborative Perceptio
 MPDA: [Bridging the Domain Gap for Multi-Agent Perception](https://ieeexplore.ieee.org/abstract/document/10160871) | ICRA'23|Xu et al.
 AdaFusion: [Adaptive Feature Fusion for Cooperative Perception using LiDAR Point Clouds](https://openaccess.thecvf.com/content/WACV2023/html/Qiao_Adaptive_Feature_Fusion_for_Cooperative_Perception_Using_LiDAR_Point_Clouds_WACV_2023_paper.html) | WACV'23|Qiao et al.
 CoBEVFlow :[Robust Asynchronous Collaborative 3D Detection via Bird’s Eye View Flow](https://arxiv.org/abs/2309.16940) | NeurIPS'23|Wei et al.
+HAEL :[An Extensible Framework for Open Heterogeneous Collaborative Perception](https://openreview.net/forum?id=KkrDUGIASk) | ICLR 2024|Lu et al.
+CoHFF :[Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles](https://arxiv.org/abs/2402.07635) | CVPR 2024|Song et al.
+CMiMC :[What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception](https://openreview.net/forum?id=KkrDUGIASk) | AAAI 2024|Su et al.
+CharSim :[Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration](https://yifanlu0227.github.io/ChatSim/) | CVPR 2024 Highlight|Wei et al.
 
 ## DataSet
 DataSet | Size | Categories / Remarks |Sensing Modalities
