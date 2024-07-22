@@ -4,7 +4,7 @@
 
 To facilitate organizing and reading the papers, I will compile a list of papers related to 3D object detection. This will cover deep learning-based algorithms and multimodal fusion algorithms.
 
-（It's mainly because my PhD supervisor asked me to organize it; otherwise, I wouldn't bother writing it.）
+（It's mainly because my PhD supervisor told me to organize it; otherwise, I'd be too lazy to do it, haha.）
 
 ![流程图 drawio](https://user-images.githubusercontent.com/44192081/157608778-48803592-9386-4f7e-9948-3bd4dca1927a.png)
 
