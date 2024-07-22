@@ -2,9 +2,7 @@
 
 # OverView of 3D object detection method
 
-To make it easier for me to keep track of the papers I've reviewed, I'll compile a list of those related to 3D object detection. This will encompass deep learning-based algorithms as well as multimodal fusion algorithms.
-
- 
+To facilitate organizing and reading the papers, I will compile a list of papers related to 3D object detection. This will cover deep learning-based algorithms and multimodal fusion algorithms.
 
 ![流程图 drawio](https://user-images.githubusercontent.com/44192081/157608778-48803592-9386-4f7e-9948-3bd4dca1927a.png)
 
