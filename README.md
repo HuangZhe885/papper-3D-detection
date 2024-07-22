@@ -161,7 +161,7 @@ HAEL :[An Extensible Framework for Open Heterogeneous Collaborative Perception](
 CoHFF :[Collaborative Semantic Occupancy Prediction with Hybrid Feature Fusion in Connected Automated Vehicles](https://arxiv.org/abs/2402.07635) | CVPR 2024|Song et al.
 CMiMC :[What Makes Good Collaborative Views? Contrastive Mutual Information Maximization for Multi-Agent Perception](https://openreview.net/forum?id=KkrDUGIASk) | AAAI 2024|Su et al.
 CharSim :[Editable Scene Simulation for Autonomous Driving via LLM-Agent Collaboration](https://yifanlu0227.github.io/ChatSim/) | CVPR 2024 Highlight|Wei et al.
-
+RoCo :[Robust Collaborative Perception By Iterative Object Matching and Pose Adjustment](https://yifanlu0227.github.io/ChatSim/) | ACM MM 2024|Huang et al.
 ## DataSet
 DataSet | Size | Categories / Remarks |Sensing Modalities
 --------- | ------------- | ------------- | -------------
